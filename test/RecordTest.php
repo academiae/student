@@ -8,7 +8,7 @@ declare(strict_types = 1);
  * @license https://github.com/gabbydgab/LicenseAgreement MIT License
  */
 
-namespace AcademaieTest\Student\Service;
+namespace AcademaieTest\Student;
 
 use PHPUnit\Framework\TestCase;
 use Academaie\Student\Record;
